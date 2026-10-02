@@ -1,0 +1,62 @@
+# =========================
+# FORENSIC EVIDENCE
+# =========================
+
+evidence/
+out/
+screenshots/
+*.7z
+*.zip
+*.rar
+*.7z.*
+*.exe
+*.dll
+*.sys
+*.dat
+*.bin
+*.img
+*.iso
+*.pcap
+*.pcapng
+
+# =========================
+# AUDIO / TRANSCRIPTS
+# =========================
+
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+
+intercepted.*
+transcript_*
+audio_*
+
+# =========================
+# PYTHON
+# =========================
+
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# =========================
+# OUTPUTS
+# =========================
+
+*.csv
+*.log
+*.json
+*.xlsx
+
+# =========================
+# OS / IDE
+# =========================
+
+.vscode/
+.DS_Store
+Thumbs.dbs
